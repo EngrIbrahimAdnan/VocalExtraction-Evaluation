@@ -1,5 +1,5 @@
 # Vocal Extraction Evaluation
-
+![image](https://github.com/EngrIbrahimAdnan/VocalExtraction-Evaluation/assets/123921774/5f22713f-bd62-4b46-aa81-ed49426001f9)
 ## Overview
 
 This repository provides a comprehensive evaluation of different methods for vocal extraction from music. The evaluated methods include Librosa, Spleeter, Audacity, and VocalRemover. The primary goal is to analyze the performance, technicality, and fine-tuning capabilities of each method to determine the most efficient tool for vocal and music extraction.
