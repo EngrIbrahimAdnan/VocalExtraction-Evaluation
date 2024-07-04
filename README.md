@@ -15,7 +15,7 @@ This is the public repository that contains:
 
 ### Private Repository: VocalExtraction-Evaluation_private
 
-The private repository contains:
+The [private repository](https://github.com/EngrIbrahimAdnan/VocalExtraction-Evaluation_private) contains:
 
 - **Source code** for the evaluation scripts.
 - **Sample project files** used in the evaluation.
