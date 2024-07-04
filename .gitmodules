@@ -1,0 +1,4 @@
+[submodule "VocalExtraction-Evaluation_private"]
+	path = VocalExtraction-Evaluation_private
+	url = https://github.com/EngrIbrahimAdnan/VocalExtraction-Evaluation_private.git
+	branch = main
